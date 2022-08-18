@@ -1,7 +1,5 @@
 <?php
 
-
-<?php
 $nombre = "";
 $sueldo = "";
 $aumento = "";
@@ -17,6 +15,4 @@ for($i = 0; $i < 20; $i++){
     echo "Total a pagar: "  .($sueldo + $descuento);
 
 }
-?>
-
 ?>
