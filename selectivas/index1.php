@@ -1,6 +1,5 @@
 <?php
 
-//sin resolver
 
 <?php
 $nombre = "";
